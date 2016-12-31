@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readonly OPENCV_VERSION="2.4.11"
+readonly OPENCV_VERSION="2.4.13"
 readonly WORKING_DIR="$HOME/.opencv_install"
 readonly INSTALL_DIR="/usr/local"
 
