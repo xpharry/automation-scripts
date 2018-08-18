@@ -5,7 +5,7 @@
 
 readonly VERSION="9.0.176_384.81"
 readonly FILENAME="cuda_${VERSION}_linux-run"
-readonly FILEURL="https://developer.nvidia.com/compute/cuda/8.0/prod/local_installers/${FILENAME}"
+readonly FILEURL="https://developer.nvidia.com/compute/cuda/9.0/prod/local_installers/${FILENAME}"
 
 cd $HOME/Downloads
 wget $FILEURL -nc
